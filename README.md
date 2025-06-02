@@ -33,6 +33,7 @@ User `git push`
 - [Google Codelaboratory](https://www.youtube.com/watch?v=ZwtDVIVB58A)
 - [Python para manipulación de datos - I](https://www.youtube.com/watch?v=ox09Jko1ErM&list=PLGBbVX_WvN7bMwYe7wWV5TZt1a58jTggB)
 - [Python para manipulación de datos - II](https://www.youtube.com/watch?v=nYtNq2D-new&list=PLGBbVX_WvN7as_DnOGcpkSsUyXB1G_wqb)
+- [Brazo robotico de 1 grado de libertad](https://www.youtube.com/watch?v=Tm4AiS0AY3s&t=292s)
 
 
 ```
@@ -47,6 +48,15 @@ NOTA: Estos tutoriales son solo una guía. El manejo de herramientas hace parte 
 - [Arreglos en Python](https://www.youtube.com/watch?v=97o5ckUHDmo)
 - [Curso de Numpy - I](https://www.youtube.com/watch?v=cYm3DBG6KfI)
 - [Curso de Numpy - II](https://www.youtube.com/watch?v=G8t7gMgY5JM&list=PLg9145ptuAij_8zYgMeqwOV8ABwRYLuR3)
+
+## Proyecto final de curso
+
+1. Mesa de billar pool
+2. Sistema solar completo (orbita eliptica y lunas)
+3. Intercepción vial (La bomba en Ciénaga con semásforo)
+4. Brazo robótico (1 grado de libertad) selector de mango
+5. Uso de dron para fumigación en finca de banano
+
 
 ## Lecturas sugeridas
 
